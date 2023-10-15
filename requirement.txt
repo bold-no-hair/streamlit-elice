@@ -1,4 +1,0 @@
-requirement
-pandas
-streamlit_folium
-pip
